@@ -178,7 +178,7 @@ color: var(--txt-color);
 /* header section styles ends*/
 
 .hero{
-background-image: url(/Image/home-background.jpg);
+background-image: url(Image/home-background.jpg);
 background-position: center;
 background-repeat: none;
 text-wrap: wrap;
@@ -391,7 +391,7 @@ background: linear-gradient(-45deg,  #FF8C42, #134);
 .banner-section{
 width: 100%;
 padding: 80px 20px;
-background-image: url(/Image/banner.jpg);
+background-image: url(Image/banner.jpg);
 background-position: center;
 text-align: center;
 background-repeat: no-repeat;
@@ -501,7 +501,7 @@ background: linear-gradient(45deg, #FF8C42, #efccfe);
 padding: 40px 0;
 width: 100%;
 text-align: center;
-background-image: url(/Image/news.jpg);
+background-image: url(Image/news.jpg);
 background-repeat: none;
 background-position: center;
 background-size: cover;
@@ -663,7 +663,7 @@ padding: 150px 20px;
 width: 100%;
 text-align: center;
 height: 100vh;
-background-image: url(/Image/shop-home.webp);
+background-image: url(Image/shop-home.webp);
 background-repeat: no-repeat;
 background-size: cover;
 background-position: center;
@@ -824,4 +824,5 @@ background: linear-gradient(to right, #FF8C42, #166);
 .contact-form form #formBtn:hover{
 cursor: pointer;
 background: linear-gradient(to right, #166, #FF8C42);
+
 }
