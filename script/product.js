@@ -1,12 +1,12 @@
 
 
 const products = [
-{name: "Rose glow Serum", price:"450 ETb", image:"/Image/news.jpg"},
-{name: " glow Serum", price:"450 ETb", image:"/Image/prodcut1.jpg"},
-{name: "Ro glow Serum", price:"450 ETb", image:"/Image/prodcut1.jpg"},
-{name: "se glow Serum", price:"450 ETb", image:"/Image/prodcut1.jpg"},
-{name: "Rose glow Serum", price:"450 ETb", image:"/Image/news.jpg"},
-{name: " glow Serum", price:"450 ETb", image:"/Image/prodcut1.jpg"},
+{name: "Rose glow Serum", price:"450 ETb", image:"Image/news.jpg"},
+{name: " glow Serum", price:"450 ETb", image:"Image/prodcut1.jpg"},
+{name: "Ro glow Serum", price:"450 ETb", image:"Image/prodcut1.jpg"},
+{name: "se glow Serum", price:"450 ETb", image:"Image/prodcut1.jpg"},
+{name: "Rose glow Serum", price:"450 ETb", image:"Image/news.jpg"},
+{name: " glow Serum", price:"450 ETb", image:"Image/prodcut1.jpg"},
 
 ];
 
@@ -39,3 +39,4 @@ setInterval(() => {
 
 
 })
+
